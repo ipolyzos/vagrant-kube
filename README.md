@@ -9,7 +9,7 @@ A Kubernetes single-node set up by kubeadm in a Vagrant machine. Thie project t 
 
 ## Deployment 
  * **[Kubernetes](https://kubernetes.io)** 
- * **[CRI-o](http://)** 
+ * **[CRI-o](https://cri-o.io/)** 
  * **[Docker](https://docker.io)**
 
 ## How to deploy
